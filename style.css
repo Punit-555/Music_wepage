@@ -1,0 +1,68 @@
+  /** Punit's Stylesheet **/
+                             
+                       /** title-section **/
+body{
+
+  font-family: 'Montserrat', sans-serif;
+}
+  
+#title,#testimonials,#pricing{
+
+  height: 550px;
+}
+
+.navbar{
+  margin-left: 12%;
+   }  
+ 
+.title-section{
+    margin: 2% 7%;  
+ }
+ 
+ #title{
+   background-color: #B0EFEB;
+ }
+.image{
+  margin-top: 5%;
+  border-radius: 50%;
+  float: left;
+}
+.title-text{
+  padding: 10%;
+  margin-left: 40%;
+  font-family: cursive;
+}
+
+@media (max-width : 700px){
+
+  .title-text{
+    font-size: 15px;
+
+  }
+
+
+
+ }
+
+
+          /** testimonials  **/
+
+          #testimonials
+          {
+            background-color: #DEEDF0;
+            font-size: 1.2rem;
+           
+          }
+          
+          /** Pricing -Section **/
+
+          #pricing{
+
+            background-color: seashell;
+          }
+.container-fluid{
+  margin-left: 12%;
+}
+
+        
+         
